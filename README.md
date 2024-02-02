@@ -1,4 +1,15 @@
-# Q-Learning for FrozenLake Environment
+# Artificial Intelligence for Robotics Final Project
+Project Title: Q-Learning for FrozenLake Environment
+
+Author: Ali Salehi Ahmadabad
+
+Student Number: S6110138
+
+Related Professor: Mr. Armando Tacchella
+
+Feb 2024
+
+--------------------------------------------------------------------------
 
 ## Introduction
 
