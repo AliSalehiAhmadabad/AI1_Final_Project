@@ -20,6 +20,8 @@ This repository contains a Python implementation of the Q-learning algorithm app
 ### Environment
 
 The FrozenLake environment from the OpenAI Gym library represents a grid-world where an agent navigates from a starting position to the goal while avoiding holes in the ice.
+![Clipboard02](https://github.com/AliSalehiAhmadabad/AI1_Final_Project/assets/150590478/50702207-40a9-44d2-9897-0cf391c333fa)
+
 
 ### Q-Learning Algorithm
 
